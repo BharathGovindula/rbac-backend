@@ -2,6 +2,9 @@
 
 A Role-Based Access Control (RBAC) backend API built with Node.js, Express, and MongoDB.
 
+## Frontend Deployed Link - https://rbacfront.netlify.app/
+## Backend Deployed Link - https://rbac-backend-78cr.onrender.com
+
 ## Features
 
 - **User Authentication**: JWT-based authentication with register/login
@@ -63,7 +66,7 @@ backend/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-backend-repo-url>
+   git clone https://github.com/BharathGovindula/rbac-backend.git
    cd backend
    ```
 
@@ -265,6 +268,3 @@ The API uses centralized error handling with the following error types:
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License. 
